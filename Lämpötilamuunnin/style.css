@@ -1,0 +1,14 @@
+p{
+    color: black;
+}
+body{
+    text-align: center;
+}
+button{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+select{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
